@@ -1,6 +1,6 @@
 # GenAI-My-Work
 
-## Functional Rew=quirements
+## Functional Requirements
 The company wants to invest in owning their own infrastructure.
 The reason is concern with the privacy of user data and the cost of genAI.
 
@@ -15,3 +15,8 @@ We are just going to hook up a single server in office to internet and we should
 ## Data Starategy
 
 There is a concern of copyyrighted material, so we purchase and supply material and store them for accessin our database.
+
+## Considerations
+
+We are using IBM granite because its truly open-source model with, so we can avoid any copyright issues and we will be able to know what happens inside the model.
+https://huggingface.co/ibm-granite
